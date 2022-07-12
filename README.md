@@ -2,9 +2,8 @@
 
 My name is Akhil Hrishi and I'm a junior year cse student in CMR.
 
-- 🔭 I’m currently working on Full Stack Development.  
-- 🌱 I’m currently learning Networking and Machine learning. 
-- 👯 I’m looking to collaborate on Web applications.
+- 🔭 Working on Full Stack Development.  
+- 🌱 Learning Artificial Intelligence and Machine learning. 
 - 💬 Ask me about esports.
 - 📫 Reach me by mailing [here.](mailto:hrishiyt@gmail.com)
 
